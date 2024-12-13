@@ -16,3 +16,5 @@ As I said, I might be wrong, but it' s so exciting !
 
 I wil share the game but this link might help having a relationship between game theory field and metal recovery:
 https://www.google.fr/books/edition/Bioelectrochemical_Systems/zYYbEAAAQBAJ?hl=fr&gbpv=1&dq=system+engineering+metal+recovery&pg=PA235&printsec=frontcover
+
+![penup_20241212_143119](https://github.com/user-attachments/assets/a7b10f15-d935-4d5f-b977-b91389379111)
