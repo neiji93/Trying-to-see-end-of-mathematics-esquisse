@@ -13,3 +13,6 @@ Obviously said (the previous sentence), we can reuse log(f(x)) again after that 
 wrong, log(x) gives titan metals. So, if I use my particle conductors (project 1 and project 2), 
 we have to force collisions with titans particles and see what happens ! I don't have a particle conductor, this is forbidden.
 As I said, I might be wrong, but it' s so exciting !
+
+I wil share the game but this link might help having a relationship between game theory field and metal recovery:
+https://www.google.fr/books/edition/Bioelectrochemical_Systems/zYYbEAAAQBAJ?hl=fr&gbpv=1&dq=system+engineering+metal+recovery&pg=PA235&printsec=frontcover
